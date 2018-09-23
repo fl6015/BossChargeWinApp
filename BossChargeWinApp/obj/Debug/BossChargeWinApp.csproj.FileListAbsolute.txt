@@ -1,0 +1,17 @@
+D:\Projects\NewSVN-SJZ\HTNewProjects\HTNewProjects\BossChargeWinApp\BossChargeWinApp\bin\Debug\BossChargeWinApp.exe.config
+D:\Projects\NewSVN-SJZ\HTNewProjects\HTNewProjects\BossChargeWinApp\BossChargeWinApp\bin\Debug\BossChargeWinApp.exe
+D:\Projects\NewSVN-SJZ\HTNewProjects\HTNewProjects\BossChargeWinApp\BossChargeWinApp\bin\Debug\BossChargeWinApp.pdb
+D:\Projects\NewSVN-SJZ\HTNewProjects\HTNewProjects\BossChargeWinApp\BossChargeWinApp\bin\Debug\Business.dll
+D:\Projects\NewSVN-SJZ\HTNewProjects\HTNewProjects\BossChargeWinApp\BossChargeWinApp\bin\Debug\Model.dll
+D:\Projects\NewSVN-SJZ\HTNewProjects\HTNewProjects\BossChargeWinApp\BossChargeWinApp\bin\Debug\log4net.dll
+D:\Projects\NewSVN-SJZ\HTNewProjects\HTNewProjects\BossChargeWinApp\BossChargeWinApp\bin\Debug\Business.pdb
+D:\Projects\NewSVN-SJZ\HTNewProjects\HTNewProjects\BossChargeWinApp\BossChargeWinApp\bin\Debug\Model.pdb
+D:\Projects\NewSVN-SJZ\HTNewProjects\HTNewProjects\BossChargeWinApp\BossChargeWinApp\bin\Debug\log4net.xml
+D:\Projects\NewSVN-SJZ\HTNewProjects\HTNewProjects\BossChargeWinApp\BossChargeWinApp\obj\Debug\BossChargeWinApp.csprojResolveAssemblyReference.cache
+D:\Projects\NewSVN-SJZ\HTNewProjects\HTNewProjects\BossChargeWinApp\BossChargeWinApp\obj\Debug\BossChargeWinApp.MainForm.resources
+D:\Projects\NewSVN-SJZ\HTNewProjects\HTNewProjects\BossChargeWinApp\BossChargeWinApp\obj\Debug\BossChargeWinApp.Properties.Resources.resources
+D:\Projects\NewSVN-SJZ\HTNewProjects\HTNewProjects\BossChargeWinApp\BossChargeWinApp\obj\Debug\BossChargeWinApp.csproj.GenerateResource.Cache
+D:\Projects\NewSVN-SJZ\HTNewProjects\HTNewProjects\BossChargeWinApp\BossChargeWinApp\obj\Debug\BossChargeWinApp.exe
+D:\Projects\NewSVN-SJZ\HTNewProjects\HTNewProjects\BossChargeWinApp\BossChargeWinApp\obj\Debug\BossChargeWinApp.pdb
+D:\Projects\NewSVN-SJZ\HTNewProjects\HTNewProjects\BossChargeWinApp\BossChargeWinApp\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\NewSVN-SJZ\HTNewProjects\HTNewProjects\BossChargeWinApp\BossChargeWinApp\bin\Debug\Newtonsoft.Json.xml

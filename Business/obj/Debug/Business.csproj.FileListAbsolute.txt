@@ -1,0 +1,9 @@
+D:\Projects\NewSVN-SJZ\HTNewProjects\HTNewProjects\BossChargeWinApp\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+D:\Projects\NewSVN-SJZ\HTNewProjects\HTNewProjects\BossChargeWinApp\Business\bin\Debug\Business.dll
+D:\Projects\NewSVN-SJZ\HTNewProjects\HTNewProjects\BossChargeWinApp\Business\bin\Debug\Business.pdb
+D:\Projects\NewSVN-SJZ\HTNewProjects\HTNewProjects\BossChargeWinApp\Business\bin\Debug\Model.dll
+D:\Projects\NewSVN-SJZ\HTNewProjects\HTNewProjects\BossChargeWinApp\Business\bin\Debug\Model.pdb
+D:\Projects\NewSVN-SJZ\HTNewProjects\HTNewProjects\BossChargeWinApp\Business\obj\Debug\Business.dll
+D:\Projects\NewSVN-SJZ\HTNewProjects\HTNewProjects\BossChargeWinApp\Business\obj\Debug\Business.pdb
+D:\Projects\NewSVN-SJZ\HTNewProjects\HTNewProjects\BossChargeWinApp\Business\bin\Debug\log4net.dll
+D:\Projects\NewSVN-SJZ\HTNewProjects\HTNewProjects\BossChargeWinApp\Business\bin\Debug\log4net.xml

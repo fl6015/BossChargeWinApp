@@ -1,0 +1,5 @@
+D:\Projects\NewSVN-SJZ\HTNewProjects\HTNewProjects\BossChargeWinApp\Model\bin\Debug\Model.dll
+D:\Projects\NewSVN-SJZ\HTNewProjects\HTNewProjects\BossChargeWinApp\Model\bin\Debug\Model.pdb
+D:\Projects\NewSVN-SJZ\HTNewProjects\HTNewProjects\BossChargeWinApp\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Projects\NewSVN-SJZ\HTNewProjects\HTNewProjects\BossChargeWinApp\Model\obj\Debug\Model.dll
+D:\Projects\NewSVN-SJZ\HTNewProjects\HTNewProjects\BossChargeWinApp\Model\obj\Debug\Model.pdb
